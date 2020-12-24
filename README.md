@@ -1,7 +1,6 @@
 ### Hi there 👋
-<!-- 
-![Houliang Qi's github stats](https://github-readme-stats.vercel.app/api?username=neuyilan&count_private=true&show_icons=true&theme=solarized-light)
--->
+
+![Houliang Qi's github stats](https://github-readme-stats.vercel.app/api?username=neuyilan&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neuyilan&theme=dracula&layout=compact)
 <!--
