@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [HouliangQi](http://neuyilan.github.io/)
+### Hi there 👋, I'm [HouliangQi](https://neuyilan.github.io/)
 
 ![Houliang Qi's github stats](https://github-readme-stats.vercel.app/api?username=neuyilan&count_private=true&show_icons=true&theme=cobalt)
 
